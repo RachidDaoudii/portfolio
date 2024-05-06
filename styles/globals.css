@@ -35,7 +35,7 @@ body {
 
 .homei {
   margin: 2px 5px 20px 10px;
-  transition: all 0.2s ease-in-out;
+  
 }
 
 .homei:hover {
@@ -46,7 +46,7 @@ body {
 
 .ec {
   margin: 2px 5px 20px;
-  transition: all 0.2s ease-in-out;
+  
 }
 
 .ec:hover {
@@ -57,7 +57,7 @@ body {
 
 .xp {
   margin: 2px 5px 20px;
-  transition: all 0.2s ease-in-out;
+  
 }
 
 .xp:hover {
@@ -68,7 +68,7 @@ body {
 
 .projects {
   margin: 2px 5px 20px;
-  transition: all 0.2s ease-in-out;
+  
 }
 
 .projects:hover {
@@ -79,7 +79,7 @@ body {
 
 .cr {
   margin: 2px 5px 20px;
-  transition: all 0.2s ease-in-out;
+  
 }
 
 .cr:hover {
@@ -163,7 +163,7 @@ body {
   font-weight: bold;
   font-family: "Google Sans Regular";
   font-size: 17px;
-  transition: all 0.2s ease-in-out;
+  
   cursor: pointer;
 }
 
@@ -243,7 +243,7 @@ body {
 
 .linkedin i {
   background-color: #0e76a8;
-  transition: all 0.2s ease-in-out;
+  
 }
 
 .linkedin i:hover {
@@ -253,7 +253,7 @@ body {
 
 .github i {
   background-color: #333;
-  transition: all 0.2s ease-in-out;
+  
 }
 
 .github i:hover {
@@ -263,7 +263,7 @@ body {
 
 .gitlab i {
   background-color: #ffcc52;
-  transition: all 0.2s ease-in-out;
+  
 }
 
 .gitlab i:hover {
@@ -273,7 +273,7 @@ body {
 
 .google i {
   background-color: #ea4335;
-  transition: all 0.2s ease-in-out;
+  
 }
 
 .google i:hover {
@@ -283,7 +283,7 @@ body {
 
 .twitter i {
   background-color: #1da1f2;
-  transition: all 0.2s ease-in-out;
+  
 }
 
 .twitter i:hover {
@@ -293,7 +293,7 @@ body {
 
 .instagram i {
   background-color: #e4405f;
-  transition: all 0.2s ease-in-out;
+  
 }
 
 .instagram i:hover {
