@@ -89,7 +89,6 @@ body {
 }
 
 
-
 .main {
   width: 90%;
   padding: 0px 10px;
@@ -145,9 +144,15 @@ body {
   height: auto;
 }
 
+.greeting-text-div{
+  display:flex;
+  align-items: center;
+}
+
 .button {
   text-decoration: none;
   color: rgba(255, 255, 255, 1);
+  background-color: #e44160;
   padding: 15px 15px;
   margin-top: 25px;
   border-radius: 4px;
@@ -233,6 +238,7 @@ body {
   user-select: none;
   width: 2.6rem;
   margin-bottom: 10px;
+  color: #ffffff;
 }
 
 .linkedin i {

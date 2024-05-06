@@ -14,7 +14,7 @@ const settings = {
     logo_name: "harry.k()",
     nickname: "harry / picleric",
     full_name: "Rachid Daoudi",
-    subTitle: "Backend Developer, Open Source Enthusiast 🔥. Always learning.",
+    subTitle: "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
     resumeLink:
       "https://drive.google.com/file/d/1Ty0-51DZ72PE30kfJ2p1jjw9SHYCnDAi/view?usp=sharing",
     mail: "mailto:rachiddaoudi533@gmail.com",
@@ -22,13 +22,13 @@ const settings = {
   
   const socialMediaLinks = {
     /* Your Social Media Link */
-    github: "https://github.com/harikanani",
-    linkedin: "https://www.linkedin.com/in/harikrushn-kanani/",
-    gmail: "hkanani191@gmail.com",
+    github: "https://github.com/rachiddaoudii",
+    linkedin: "https://www.linkedin.com/in/rachid-daoudi-a560a3193/",
+    gmail: "rachiddaoudi533@gmail.com",
     gitlab: "https://gitlab.com/harikanani",
     // facebook: "https://www.facebook.com/harikrishan.kanani/",
     twitter: "https://twitter.com/Harikrushn9",
-    instagram: "https://www.instagram.com/hari_kanani_/",
+    instagram: "https://www.instagram.com/rachid18daoudi/",
   };
   
   const skills = {
