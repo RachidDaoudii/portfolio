@@ -23,6 +23,7 @@ const Skills = ()=>{
                 <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/fluency/96/nextjs.png" alt="nextjs"/></li>
                 <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/fluency/96/express-js.png" alt="express-js"/></li>
                 <li className="tech-icons"><img width="96" height="96" src="https://docs.nest-js.fr/assets/logo-small-gradient.svg" alt="nestjs"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/color/96/android-os.png" alt="android-os"/></li>
                 <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/color/96/npm.png" alt="npm"/></li>
                 <li className="tech-icons"><img width="100" height="100" src="https://img.icons8.com/plasticine/100/postgreesql.png" alt="postgreesql"/></li>
                 <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/fluency/96/mysql-logo.png" alt="mysql-logo"/></li>
