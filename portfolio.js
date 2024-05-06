@@ -9,7 +9,7 @@ const settings = {
   
   //Home Page
   const greeting = {
-    title: "Hello 👋.",
+    title: "Hi 👋.",
     title2: "Rachid Daoudi",
     logo_name: "harry.k()",
     nickname: "harry / picleric",
