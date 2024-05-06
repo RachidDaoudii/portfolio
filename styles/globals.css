@@ -402,12 +402,12 @@ body {
 /*end Skills*/
 
 
-/*.tech-icons {
-  border: 1.7px solid rgba(200, 137, 230, .637) !important;
+.tech-icons {
+  border: 1.7px solid #ea4335 !important;
   border-radius: 5px !important;
   box-shadow: 4px 5px 4px 3px rgba(89, 4, 168, .137) !important;
   display: table !important;
-  font-size: 4.5em !important;
+  font-size: 2.5em !important;
   margin: 15px !important;
   opacity: .93 !important;
   overflow: hidden !important;
@@ -415,4 +415,16 @@ body {
   text-align: center !important;
   transition: all .4s ease 0s !important;
   vertical-align: middle !important;
-}*/
+  text-align: center;
+}
+
+.section-skills{
+  display:flex;
+  justify-content: center;
+}
+
+.list-skills{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

@@ -6,6 +6,7 @@ import Header from "@/components/Header/header";
 import Footer from "@/components/Footer/footer";
 import Greeting from "@/constants/Greeting/greeting"
 import Skills from "@/constants/skills/Skills";
+import Tools from "@/constants/tools/Tools";
 
 
 export default function Home() {
@@ -14,7 +15,7 @@ export default function Home() {
       <Header/>
       <Greeting/>
       <Skills/>
-      <Footer/>
+      <Tools/>
     </div>
   );
 }

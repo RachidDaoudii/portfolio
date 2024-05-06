@@ -8,9 +8,35 @@ const Skills = ()=>{
               <h1 className="skills-header">
                 Professional <span className="textSkill">Skills</span>
               </h1>
-              <div className="w-full">
-              {skills && skills?.data[0]?.softwareSkills.map((skill,i)=>(<div className="tech-icons">{skill.skillName}</div>))}
-              </div>
+            </div>
+            <div className="section-skills">
+              <ul className="list-skills">
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/fluency/96/html-5.png" alt="html-5"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/fluency/96/css3.png" alt="css3"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/fluency/96/javascript.png" alt="javascript"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/parakeet/96/php.png" alt="php"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/fluency/96/laravel.png" alt="laravel"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/fluency/96/node-js.png" alt="node-js"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/color/96/react-native.png" alt="react-native"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/color/96/redux.png" alt="redux"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/fluency/96/vuejs.png" alt="vuejs"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/fluency/96/nextjs.png" alt="nextjs"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/fluency/96/express-js.png" alt="express-js"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://docs.nest-js.fr/assets/logo-small-gradient.svg" alt="nestjs"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/color/96/npm.png" alt="npm"/></li>
+                <li className="tech-icons"><img width="100" height="100" src="https://img.icons8.com/plasticine/100/postgreesql.png" alt="postgreesql"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/fluency/96/mysql-logo.png" alt="mysql-logo"/></li>
+                <li className="tech-icons"><img width="100" height="100" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg" alt="mongodb"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/color/96/git.png" alt="git"/></li>
+                <li className="tech-icons"><img width="100" height="100" src="https://cardinalby.github.io/blog/images/posts/github-actions/implementing-deferred-steps/title.png" alt="githubAction"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/fluency/96/python.png" alt="python"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/fluency/96/redis.png" alt="redis"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK7yxhaa31u1Nt1d5Q64dH7f6ocb6_CfDff3mPIUH7Hw&s" alt="jest"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/fluency/96/docker.png" alt="docker"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/color/96/amazon-web-services.png" alt="amazon-web-services"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/fluency/96/tailwind_css.png" alt="tailwind_css"/></li>
+                <li className="tech-icons"><img width="96" height="96" src="https://img.icons8.com/fluency/96/bootstrap.png" alt="bootstrap"/></li>
+              </ul>
             </div>
           </div>
           
