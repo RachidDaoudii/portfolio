@@ -10,7 +10,7 @@ const Projects = ()=>{
                         My Recent <span className="textSkill">Works</span>
                     </h1>
                 </div>
-                <p className="flex justify-center mt-4 font-medium">Here are a few projects I've worked on recently.</p>
+                
             </div>
             <Footer/>
         </>
