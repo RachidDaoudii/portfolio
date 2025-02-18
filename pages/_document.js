@@ -10,7 +10,7 @@ export default function Document() {
         <Main />
         <NextScript />
       </body>
-      <!-- Google tag (gtag.js) -->
+      // <!-- Google tag (gtag.js) -->
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-9DG0EYZRXZ"></script>
       <script>
         window.dataLayer = window.dataLayer || [];
